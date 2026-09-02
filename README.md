@@ -43,7 +43,7 @@ This is a collection of school-, hobby-, and practice-projects where I further m
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 or my website:
-  <a href="https://www.smhdesign.com"> Smhdesign.dk</a>  
+  <a href="https://www.smhdesign.dk"> Smhdesign.dk</a>  
 </p>
 <!--
 **SaethorMH/SaethorMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
